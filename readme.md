@@ -7,5 +7,5 @@ Eai, Dev, estou compartilhando com você neste projeto, um bot de mensagens para
 2. Visual Studio Code;
 3. De um Git Clone neste projeto:
 #### Exemplo: 
-
+   a
 ```git clone https://github.com/lucasmontel/Bot_whatsapp.git```
