@@ -3,4 +3,8 @@ Eai, Dev, estou compartilhando com você neste projeto, um bot de mensagens para
 
 # Instalação:
 ```Para a instalção, será necessário que você instale:```
-
+1. Node.js;
+2. Visual Studio Code;
+3. De um Git Clone neste projeto:
+#### Exemplo: 
+```git clone https://github.com/lucasmontel/Bot_whatsapp.git```
