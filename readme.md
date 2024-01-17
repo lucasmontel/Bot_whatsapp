@@ -5,10 +5,11 @@ Eai, Dev, estou compartilhando com você neste projeto, um bot de mensagens para
 ```Para a instalção, será necessário que você instale:```
 * Node.js;
 * Visual Studio Code;
+* npm;
 * De um Git Clone neste projeto:
 #### Exemplo: 
    
 ```git clone https://github.com/lucasmontel/Bot_whatsapp.git```
 
 
-* Após fazer o git clone, com npm, digite o seguinte comando em seu terminal integrado: ```npm install```(Para instalar as dependências);
+* Após fazer o git clone, digite o seguinte comando em seu terminal integrado: ```npm install```(Para instalar as dependências);
