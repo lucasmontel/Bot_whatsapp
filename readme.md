@@ -10,7 +10,7 @@ Eai, Dev, estou compartilhando com você neste projeto, um bot de mensagens para
 #### Exemplo: 
    
 ```git clone https://github.com/lucasmontel/Bot_whatsapp.git```
-
+![gitclone](/img/cmdddd.png)
 
 * Após fazer o git clone, digite o seguinte comando em seu terminal integrado: ```npm install```(Para instalar as dependências);
 
