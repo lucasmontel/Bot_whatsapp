@@ -13,4 +13,6 @@ Eai, Dev, estou compartilhando com você neste projeto, um bot de mensagens para
 
 
 * Após fazer o git clone, digite o seguinte comando em seu terminal integrado: ```npm install```(Para instalar as dependências);
+
+
 ![terminal](/img/Captura%20de%20tela%202024-01-17%20200557.png)
