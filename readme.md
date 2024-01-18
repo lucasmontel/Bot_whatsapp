@@ -34,6 +34,9 @@ Após fazer todo o processo de instalação, não tem segredo, apenas abra o pro
 * Puppeteer(Biblioteca Node.js);
 * Node.js(Engine);
 * JavaScript;
-* Visual Studio Code(Ambiente de Desenvolvimento);
+* IDE: Visual Studio Code;
 
-
+# Contato:
+* [Meu Site](https://rctechsolucoes.com.br/)
+* [Email](mailto:aimpostor6@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/lucasmontel/)
