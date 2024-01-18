@@ -1,3 +1,2 @@
-2024/01/17-16:22:38.875 219c Reusing MANIFEST c:\Users\Windows\Desktop\Lucas\Pastas\bot\whatsapp\cache\Default\shared_proto_db\metadata/MANIFEST-000001
-2024/01/17-16:22:38.875 219c Recovering log #3
-2024/01/17-16:22:38.875 219c Reusing old log c:\Users\Windows\Desktop\Lucas\Pastas\bot\whatsapp\cache\Default\shared_proto_db\metadata/000003.log 
+2024/01/18-09:39:53.277 31a4 Creating DB C:\Users\Windows\Desktop\whatsapp\cache\Default\shared_proto_db\metadata since it was missing.
+2024/01/18-09:39:53.288 31a4 Reusing MANIFEST C:\Users\Windows\Desktop\whatsapp\cache\Default\shared_proto_db\metadata/MANIFEST-000001

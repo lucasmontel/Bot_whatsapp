@@ -1,3 +1,2 @@
-2024/01/17-16:22:38.945 2e40 Reusing MANIFEST c:\Users\Windows\Desktop\Lucas\Pastas\bot\whatsapp\cache\Default\Local Storage\leveldb/MANIFEST-000001
-2024/01/17-16:22:38.955 2e40 Recovering log #18
-2024/01/17-16:22:38.968 2e40 Reusing old log c:\Users\Windows\Desktop\Lucas\Pastas\bot\whatsapp\cache\Default\Local Storage\leveldb/000018.log 
+2024/01/18-09:39:53.322 18f8 Creating DB C:\Users\Windows\Desktop\whatsapp\cache\Default\Local Storage\leveldb since it was missing.
+2024/01/18-09:39:53.420 18f8 Reusing MANIFEST C:\Users\Windows\Desktop\whatsapp\cache\Default\Local Storage\leveldb/MANIFEST-000001
