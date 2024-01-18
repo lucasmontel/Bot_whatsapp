@@ -21,8 +21,19 @@ Eai, Dev, estou compartilhando com você neste projeto, um bot de mensagens para
 
 ![terminal](/img/Captura%20de%20tela%202024-01-17%20200557.png)
 
-# Exemplos de Uso
+# Exemplos de Uso:
 
 Após fazer todo o processo de instalação, não tem segredo, apenas abra o projeto e execute o arquivo `zap.js`
 
 ![node_zap](/img/node_zap.png)
+
+# Ambiente de Desenvolvimento:
+
+```Tecnologias utilizadas:```
+
+* Puppeteer(Biblioteca Node.js);
+* Node.js(Engine);
+* JavaScript;
+* Visual Studio Code(Ambiente de Desenvolvimento);
+
+
